@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BestAds</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_create_advertisemnet">CreateAdvertisemnet</string>
+    <string name="title_activity_menu">Menu</string>
+
+    <string name="title_section1">Create Advertisement</string>
+    <string name="title_section2">Update Profile</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+    <string name="title_activity_slide_menu">SlideMenu</string>
+
+</resources>
